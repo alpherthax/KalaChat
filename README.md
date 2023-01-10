@@ -1,6 +1,6 @@
 # KalaChat
 Fake chat app project inspired by Discord, Line, Kakaotalk, Momotalk, etc.
 
-## using fonts
-* Mabiyetche
- * https://mabinogi.nexon.com/page/pds/font.asp
+## Font Source
+* 마비옛체(Mabiyetche/ made by Nexon Korea)
+  * https://mabinogi.nexon.com/page/pds/font.asp
