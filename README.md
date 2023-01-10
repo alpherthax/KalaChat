@@ -7,7 +7,7 @@ Fake chat app project inspired by Discord, Line, Kakaotalk, Momotalk, etc.
 
 ## Referance
 * UI: Discord, Momotalk
-* Basic system: 톡 썰 메이커
+* Basic system: Discord, 톡 썰 메이커
 * Concept: Momotalk
 *
 *
