@@ -1,5 +1,5 @@
 # KalaChat
-Fake chat app project inspired by Discord, Line, Kakaotalk, Momotalk, etc.
+Fake chat app project inspired by Discord, Line, Kakaotalk, Momotalk, and etc.
 
 ## Source
 * Font: 마비옛체(Mabiyetche/ made by Nexon Korea) 
