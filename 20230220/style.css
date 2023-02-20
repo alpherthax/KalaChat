@@ -1,0 +1,105 @@
+@font-face {
+    font-family: 'MabinogiClassic';
+    font-weight: normal;
+    font-style: normal;
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/NexonMabinogi/MabinogiClassic.eot');
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/NexonMabinogi/MabinogiClassic.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/NexonMabinogi/MabinogiClassic.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/NexonMabinogi/MabinogiClassic.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/NexonMabinogi/MabinogiClassic.ttf') format("truetype");
+    font-display: swap;
+} 
+
+* {
+    font-family: 'MabinogiClassic';
+    color: #222;
+}
+
+body {
+    background-color: #FFFAE3;
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
+
+header {
+    position: fixed;
+    height: 100px;
+    top: 0%;
+    width: 100%;
+    padding: 0 5% 1%;
+    font-size: 50px;
+    background-color: #FFFAE3;
+    border-bottom: 2px solid #e0c79b;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+}
+::-webkit-scrollbar-track {
+    background: #fff;
+}
+::-webkit-scrollbar-thumb {
+    background: #75A5CE;
+    border-radius: 10px;
+}
+
+table {
+    width: 60%;
+    border: 0;
+    margin: 1em auto;
+}
+
+#chatting a, b, u, i, strike {
+    color: #fff;
+}
+
+#chatting p {
+    background-color: #75A5CE;
+    color: #fff;
+    margin: auto;
+    padding: 1em;
+    border-radius: 1em;
+    border-bottom-left-radius: 0;
+    font-size: 20px;
+}
+
+#chatting img {
+    width: 80%;
+    border-radius: 1em;
+}
+
+#nickname {
+    font-size: 20px;
+    font-weight: bold;
+    float: left;
+    margin: 0 1% 0 0;
+}
+
+#handle {
+    font-size: 14px;
+    display: inline-block;
+    margin: 0 0 0 1%;
+}
+
+#footer {
+    background-color: #fff;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+#footer p {
+    margin: auto;
+    padding: 0.5em;
+    font-size: 30px;
+    color: #ccc;
+}
+
+#footer button {
+    background-color: #ffb8ee;
+    border: 0;
+    border-radius: 0.5em;
+    padding: 1em;
+    font-size: 30px;
+    color: #fff;
+}
